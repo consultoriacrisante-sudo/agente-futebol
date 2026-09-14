@@ -1,0 +1,1244 @@
+
+LIGAS ENCONTRADAS
+======================================================================
+ID: 4 | Euro Championship | País: World
+ID: 21 | Confederations Cup | País: World
+ID: 62 | Ligue 2 | País: France
+ID: 61 | Ligue 1 | País: France
+ID: 144 | Jupiler Pro League | País: Belgium
+ID: 71 | Serie A | País: Brazil
+ID: 39 | Premier League | País: England
+ID: 78 | Bundesliga | País: Germany
+ID: 135 | Serie A | País: Italy
+ID: 88 | Eredivisie | País: Netherlands
+ID: 94 | Primeira Liga | País: Portugal
+ID: 140 | La Liga | País: Spain
+ID: 179 | Premiership | País: Scotland
+ID: 180 | Championship | País: Scotland
+ID: 1 | World Cup | País: World
+ID: 803 | Asian Games | País: World
+ID: 804 | Caribbean Cup | País: World
+ID: 15 | FIFA Club World Cup | País: World
+ID: 7 | Asian Cup | País: World
+ID: 8 | World Cup - Women | País: World
+ID: 330 | Premier League | País: Kuwait
+ID: 119 | Superliga | País: Denmark
+ID: 120 | 1. Division | País: Denmark
+ID: 124 | Denmark Series - Group 1 | País: Denmark
+ID: 125 | Denmark Series - Group 2 | País: Denmark
+ID: 126 | Denmark Series - Group 3 | País: Denmark
+ID: 234 | Liga Nacional | País: Honduras
+ID: 381 | HKFA 1st Division | País: Hong-Kong
+ID: 380 | Premier League | País: Hong-Kong
+ID: 273 | Magyar Kupa | País: Hungary
+ID: 271 | NB I | País: Hungary
+ID: 272 | NB II | País: Hungary
+ID: 390 | Premier League | País: Lebanon
+ID: 261 | National Division | País: Luxembourg
+ID: 306 | Second Division | País: Qatar
+ID: 305 | Stars League | País: Qatar
+ID: 40 | Championship | País: England
+ID: 46 | EFL Trophy | País: England
+ID: 45 | FA Cup | País: England
+ID: 47 | FA Trophy | País: England
+ID: 48 | League Cup | País: England
+ID: 43 | National League | País: England
+ID: 41 | League One | País: England
+ID: 42 | League Two | País: England
+ID: 568 | Eerste Divisie | País: Suriname
+ID: 571 | Vysshaya Liga | País: Tajikistan
+ID: 586 | West Bank Premier League | País: Palestine
+ID: 588 | National League | País: Myanmar
+ID: 591 | Pro League | País: Trinidad-And-Tobago
+ID: 335 | Cup | País: Ukraine
+ID: 336 | Druha Liga | País: Ukraine
+ID: 334 | Persha Liga | País: Ukraine
+ID: 333 | Premier League | País: Ukraine
+ID: 301 | Pro League | País: United-Arab-Emirates
+ID: 303 | Division 1 | País: United-Arab-Emirates
+ID: 302 | League Cup | País: United-Arab-Emirates
+ID: 269 | Segunda División | País: Uruguay
+ID: 202 | Ligue 1 | País: Tunisia
+ID: 203 | Süper Lig | País: Turkey
+ID: 204 | 1. Lig | País: Turkey
+ID: 205 | 2. Lig | País: Turkey
+ID: 206 | Türkiye Kupası | País: Turkey
+ID: 552 | 3. Lig - Group 1 | País: Turkey
+ID: 553 | 3. Lig - Group 2 | País: Turkey
+ID: 554 | 3. Lig - Group 3 | País: Turkey
+ID: 63 | Ligue 3 | País: France
+ID: 66 | Coupe de France | País: France
+ID: 65 | Coupe de la Ligue | País: France
+ID: 67 | National 2 - Group A | País: France
+ID: 68 | National 2 - Group B | País: France
+ID: 69 | National 2 - Group C | País: France
+ID: 70 | National 2 - Group D | País: France
+ID: 233 | Premier League | País: Egypt
+ID: 370 | Primera Division | País: El-Salvador
+ID: 328 | Esiliiga A | País: Estonia
+ID: 329 | Meistriliiga | País: Estonia
+ID: 326 | Erovnuli Liga 2 | País: Georgia
+ID: 570 | Premier League | País: Ghana
+ID: 377 | Division d'Honneur | País: Guadeloupe
+ID: 339 | Liga Nacional | País: Guatemala
+ID: 338 | Primera Division | País: Guatemala
+ID: 199 | Cup | País: Greece
+ID: 198 | Football League | País: Greece
+ID: 197 | Super League 1 | País: Greece
+ID: 79 | 2. Bundesliga | País: Germany
+ID: 80 | 3. Liga | País: Germany
+ID: 529 | Super Cup | País: Germany
+ID: 81 | DFB Pokal | País: Germany
+ID: 2 | UEFA Champions League | País: World
+ID: 311 | 1st Division | País: Albania
+ID: 310 | Superliga | País: Albania
+ID: 186 | Ligue 1 | País: Algeria
+ID: 187 | Ligue 2 | País: Algeria
+ID: 512 | 2nd Division - Group A | País: Albania
+ID: 513 | 2nd Division - Group B | País: Albania
+ID: 312 | 1a Divisió | País: Andorra
+ID: 313 | 2a Divisió | País: Andorra
+ID: 131 | Primera B Metropolitana | País: Argentina
+ID: 129 | Primera Nacional | País: Argentina
+ID: 132 | Primera C | País: Argentina
+ID: 133 | Primera D | País: Argentina
+ID: 134 | Torneo Federal A | País: Argentina
+ID: 188 | A-League | País: Australia
+ID: 191 | Brisbane Premier League | País: Australia
+ID: 193 | Northern Territory Premier League | País: Australia
+ID: 220 | Cup | País: Austria
+ID: 219 | 2. Liga | País: Austria
+ID: 218 | Bundesliga | País: Austria
+ID: 418 | Birinci Dasta | País: Azerbaijan
+ID: 419 | Premyer Liqa | País: Azerbaijan
+ID: 222 | Regionalliga - Mitte | País: Austria
+ID: 221 | Regionalliga - Ost | País: Austria
+ID: 223 | Regionalliga - West | País: Austria
+ID: 110 | Premier League | País: Wales
+ID: 112 | Welsh Cup | País: Wales
+ID: 299 | Primera División | País: Venezuela
+ID: 300 | Segunda División | País: Venezuela
+ID: 406 | Professional League | País: Oman
+ID: 322 | Premier League | País: Jamaica
+ID: 387 | League | País: Jordan
+ID: 388 | 1. Division | País: Kazakhstan
+ID: 535 | CECAFA Senior Challenge Cup | País: World
+ID: 397 | Girabola | País: Angola
+ID: 343 | First League | País: Armenia
+ID: 342 | Premier League | País: Armenia
+ID: 481 | Northern NSW NPL | País: Australia
+ID: 116 | Premier League | País: Belarus
+ID: 117 | 1. Division | País: Belarus
+ID: 118 | 2. Division | País: Belarus
+ID: 400 | Super League | País: Zambia
+ID: 340 | V.League 1 | País: Vietnam
+ID: 102 | Emperor Cup | País: Japan
+ID: 101 | J-League Cup | País: Japan
+ID: 98 | J1 League | País: Japan
+ID: 99 | J2 League | País: Japan
+ID: 100 | J3 League | País: Japan
+ID: 422 | Premier League | País: Barbados
+ID: 480 | Olympics Men | País: World
+ID: 551 | Super Cup | País: Turkey
+ID: 366 | 1. Deild | País: Faroe-Islands
+ID: 367 | Meistaradeildin | País: Faroe-Islands
+ID: 245 | Ykkönen | País: Finland
+ID: 244 | Veikkausliiga | País: Finland
+ID: 246 | Suomen Cup | País: Finland
+ID: 247 | Kakkonen - Lohko A | País: Finland
+ID: 248 | Kakkonen - Lohko B | País: Finland
+ID: 249 | Kakkonen - Lohko C | País: Finland
+ID: 526 | Trophée des Champions | País: France
+ID: 242 | Liga Pro | País: Ecuador
+ID: 243 | Liga Pro Serie B | País: Ecuador
+ID: 539 | Super Cup | País: Egypt
+ID: 389 | Premier League | País: Kazakhstan
+ID: 276 | FKF Premier League | País: Kenya
+ID: 121 | DBU Pokalen | País: Denmark
+ID: 379 | Ligue Haïtienne | País: Haiti
+ID: 364 | 1. Liga | País: Latvia
+ID: 365 | Virsliga | País: Latvia
+ID: 361 | 1 Lyga | País: Lithuania
+ID: 362 | A Lyga | País: Lithuania
+ID: 528 | Community Shield | País: England
+ID: 72 | Serie B | País: Brazil
+ID: 75 | Serie C | País: Brazil
+ID: 76 | Serie D | País: Brazil
+ID: 585 | Premier League | País: Uganda
+ID: 598 | Première Division | País: Mali
+ID: 253 | Major League Soccer | País: USA
+ID: 257 | US Open Cup | País: USA
+ID: 268 | Primera División | País: Uruguay
+ID: 270 | Primera División - Clausura | País: Uruguay
+ID: 369 | Super League | País: Uzbekistan
+ID: 296 | Thai League 1 | País: Thailand
+ID: 297 | Thai League 2 | País: Thailand
+ID: 505 | League Cup | País: Singapore
+ID: 421 | Division di Honor | País: Aruba
+ID: 420 | Cup | País: Azerbaijan
+ID: 298 | FA Cup | País: Thailand
+ID: 28 | SAFF Championship | País: World
+ID: 376 | National Football League | País: Fiji
+ID: 64 | Feminine Division 1 | País: France
+ID: 3 | UEFA Europa League | País: World
+ID: 327 | Erovnuli Liga | País: Georgia
+ID: 378 | Ligue 1 | País: Guinea
+ID: 807 | AFC Challenge Cup | País: World
+ID: 19 | African Nations Championship | País: World
+ID: 24 | ASEAN Championship | País: World
+ID: 37 | World Cup - Qualification Intercontinental Play-offs | País: World
+ID: 520 | Acreano | País: Brazil
+ID: 547 | Super Cup | País: Italy
+ID: 122 | 2. Division | País: Denmark
+ID: 123 | 2nd Division - Group 2 | País: Denmark
+ID: 567 | Ligi kuu Bara | País: Tanzania
+ID: 255 | USL Championship | País: USA
+ID: 128 | Liga Profesional Argentina | País: Argentina
+ID: 6 | Africa Cup of Nations | País: World
+ID: 9 | Copa America | País: World
+ID: 363 | Premier League | País: Ethiopia
+ID: 519 | Super Cup | País: Belgium
+ID: 527 | Super Cup | País: Chile
+ID: 183 | League One | País: Scotland
+ID: 184 | League Two | País: Scotland
+ID: 22 | CONCACAF Gold Cup | País: World
+ID: 23 | EAFF E-1 Football Championship | País: World
+ID: 27 | OFC Champions League | País: World
+ID: 925 | Super Cup | País: Czech-Republic
+ID: 16 | CONCACAF Champions League | País: World
+ID: 17 | AFC Champions League Elite | País: World
+ID: 25 | Gulf Cup of Nations | País: World
+ID: 26 | International Champions Cup | País: World
+ID: 317 | 1st League - RS | País: Bosnia
+ID: 316 | 1st League - FBiH | País: Bosnia
+ID: 295 | K3 League | País: South-Korea
+ID: 141 | Segunda División | País: Spain
+ID: 136 | Serie B | País: Italy
+ID: 103 | Eliteserien | País: Norway
+ID: 89 | Eerste Divisie | País: Netherlands
+ID: 95 | Segunda Liga | País: Portugal
+ID: 113 | Allsvenskan | País: Sweden
+ID: 162 | Primera División | País: Costa-Rica
+ID: 164 | Úrvalsdeild | País: Iceland
+ID: 169 | Super League | País: China
+ID: 137 | Coppa Italia | País: Italy
+ID: 200 | Botola Pro | País: Morocco
+ID: 207 | Super League | País: Switzerland
+ID: 210 | HNL | País: Croatia
+ID: 235 | Premier League | País: Russia
+ID: 239 | Primera A | País: Colombia
+ID: 250 | Division Profesional - Apertura | País: Paraguay
+ID: 73 | Copa Do Brasil | País: Brazil
+ID: 90 | KNVB Beker | País: Netherlands
+ID: 145 | Challenger Pro League | País: Belgium
+ID: 173 | Second League | País: Bulgaria
+ID: 170 | League One | País: China
+ID: 189 | Capital Territory NPL | País: Australia
+ID: 240 | Primera B | País: Colombia
+ID: 211 | First NL | País: Croatia
+ID: 138 | Serie C - Girone A | País: Italy
+ID: 146 | Super League Women | País: Belgium
+ID: 74 | Brasileiro Women | País: Brazil
+ID: 44 | FA WSL | País: England
+ID: 82 | Frauen Bundesliga | País: Germany
+ID: 139 | Serie A Women | País: Italy
+ID: 91 | Eredivisie Women | País: Netherlands
+ID: 142 | Primera División Femenina | País: Spain
+ID: 130 | Copa Argentina | País: Argentina
+ID: 190 | A-League Women | País: Australia
+ID: 236 | First League | País: Russia
+ID: 165 | 1. Deild | País: Iceland
+ID: 251 | Division Intermedia | País: Paraguay
+ID: 104 | 1. Division | País: Norway
+ID: 114 | Superettan | País: Sweden
+ID: 208 | Challenge League | País: Switzerland
+ID: 262 | Liga MX | País: Mexico
+ID: 263 | Liga de Expansión MX | País: Mexico
+ID: 259 | Canadian Championship | País: Canada
+ID: 278 | Super League | País: Malaysia
+ID: 279 | Premier League | País: Malaysia
+ID: 280 | Premiership | País: New-Zealand
+ID: 281 | Primera División | País: Peru
+ID: 282 | Segunda División | País: Peru
+ID: 283 | Liga I | País: Romania
+ID: 284 | Liga II | País: Romania
+ID: 286 | Super Liga | País: Serbia
+ID: 287 | Prva Liga | País: Serbia
+ID: 288 | Premier Soccer League | País: South-Africa
+ID: 289 | 1st Division | País: South-Africa
+ID: 290 | Persian Gulf Pro League | País: Iran
+ID: 291 | Azadegan League | País: Iran
+ID: 292 | K League 1 | País: South-Korea
+ID: 293 | K League 2 | País: South-Korea
+ID: 307 | Pro League | País: Saudi-Arabia
+ID: 308 | Division 1 | País: Saudi-Arabia
+ID: 309 | Division 2 | País: Saudi-Arabia
+ID: 127 | Denmark Series - Group 4 | País: Denmark
+ID: 563 | Ettan - Norra | País: Sweden
+ID: 564 | Ettan - Södra | País: Sweden
+ID: 569 | Premier League | País: Kyrgyzstan
+ID: 592 | Division 2 - Norra Götaland | País: Sweden
+ID: 593 | Division 2 - Norra Svealand | País: Sweden
+ID: 594 | Division 2 - Norrland | País: Sweden
+ID: 595 | Division 2 - Södra Svealand | País: Sweden
+ID: 596 | Division 2 - Västra Götaland | País: Sweden
+ID: 597 | Division 2 - Södra Götaland | País: Sweden
+ID: 511 | Cup | País: Tunisia
+ID: 252 | Division Profesional - Clausura | País: Paraguay
+ID: 166 | 2. Deild | País: Iceland
+ID: 368 | Premier League | País: Singapore
+ID: 314 | Cup | País: Bosnia
+ID: 315 | Premijer Liga | País: Bosnia
+ID: 371 | First League | País: Macedonia
+ID: 382 | Liga Leumit | País: Israel
+ID: 383 | Ligat Ha'al | País: Israel
+ID: 386 | Ligue 1 | País: Ivory-Coast
+ID: 392 | Challenge League | País: Malta
+ID: 393 | Premier League | País: Malta
+ID: 394 | Super Liga | País: Moldova
+ID: 396 | Primera Division | País: Nicaragua
+ID: 96 | Taça de Portugal | País: Portugal
+ID: 399 | NPFL | País: Nigeria
+ID: 401 | Premier Soccer League | País: Zimbabwe
+ID: 402 | Sudani Premier League | País: Sudan
+ID: 403 | Ligue 1 | País: Senegal
+ID: 404 | Campionato | País: San-Marino
+ID: 411 | Elite One | País: Cameroon
+ID: 410 | C-League | País: Cambodia
+ID: 417 | Premier League | País: Bahrain
+ID: 415 | Championnat National | País: Benin
+ID: 414 | Premier League | País: Bermuda
+ID: 413 | Super League | País: Bhutan
+ID: 412 | Premier League | País: Botswana
+ID: 398 | Premier League | País: Bangladesh
+ID: 495 | Hazfi Cup | País: Iran
+ID: 496 | Liga Alef | País: Israel
+ID: 506 | 2. liga | País: Slovakia
+ID: 514 | Coupe Nationale | País: Algeria
+ID: 521 | Amapaense | País: Brazil
+ID: 522 | Amazonense | País: Brazil
+ID: 524 | Olympics Women | País: World
+ID: 531 | UEFA Super Cup | País: World
+ID: 543 | Super Cup | País: Netherlands
+ID: 550 | Super Cup | País: Portugal
+ID: 555 | Supercupa | País: Romania
+ID: 556 | Super Cup | País: Spain
+ID: 497 | Japan Football League | País: Japan
+ID: 805 | Copa Centroamericana | País: World
+ID: 806 | OFC Nations Cup | País: World
+ID: 488 | U19 Bundesliga | País: Germany
+ID: 331 | Division 1 | País: Kuwait
+ID: 584 | Premier League | País: Libya
+ID: 589 | Taiwan Football Premier League | País: Chinese-Taipei
+ID: 14 | UEFA Youth League | País: World
+ID: 18 | AFC Champions League Two | País: World
+ID: 20 | CAF Confederation Cup | País: World
+ID: 38 | UEFA U21 Championship | País: World
+ID: 425 | Premier League | País: Syria
+ID: 77 | Alagoano | País: Brazil
+ID: 337 | Druha Liga - Group B | País: Ukraine
+ID: 185 | League Cup | País: Scotland
+ID: 490 | World Cup - U20 | País: World
+ID: 258 | Canadian Soccer League | País: Canada
+ID: 274 | Liga 1 | País: Indonesia
+ID: 304 | Liga Panameña de Fútbol | País: Panama
+ID: 766 | China Cup | País: World
+ID: 372 | Second League | País: Macedonia
+ID: 174 | Cup | País: Bulgaria
+ID: 10 | Friendlies | País: World
+ID: 492 | Tweede Divisie | País: Netherlands
+ID: 498 | Cup | País: Kazakhstan
+ID: 504 | King's Cup | País: Saudi-Arabia
+ID: 507 | Cup | País: South-Africa
+ID: 508 | League Cup | País: South-Africa
+ID: 510 | 1. Liga Promotion | País: Switzerland
+ID: 559 | League Cup | País: Northern-Ireland
+ID: 560 | Presidents Cup | País: United-Arab-Emirates
+ID: 561 | Premier Intermediate League | País: Northern-Ireland
+ID: 407 | Championship | País: Northern-Ireland
+ID: 408 | Premiership | País: Northern-Ireland
+ID: 827 | Crown Prince Cup | País: Saudi-Arabia
+ID: 942 | Serie C - Girone B | País: Italy
+ID: 943 | Serie C - Girone C | País: Italy
+ID: 493 | UEFA U19 Championship | País: World
+ID: 499 | Malaysia Cup | País: Malaysia
+ID: 516 | Super Cup | País: Algeria
+ID: 537 | CONCACAF U20 | País: World
+ID: 544 | FA Cup | País: Hong-Kong
+ID: 545 | AIFF Super Cup | País: India
+ID: 557 | Super Cup | País: Norway
+ID: 285 | Cupa României | País: Romania
+ID: 321 | Cup | País: Cyprus
+ID: 31 | World Cup - Qualification CONCACAF | País: World
+ID: 32 | World Cup - Qualification Europe | País: World
+ID: 33 | World Cup - Qualification Oceania | País: World
+ID: 34 | World Cup - Qualification South America | País: World
+ID: 29 | World Cup - Qualification Africa | País: World
+ID: 30 | World Cup - Qualification Asia | País: World
+ID: 149 | Second Amateur Division - VFV A | País: Belgium
+ID: 150 | Second Amateur Division - VFV B | País: Belgium
+ID: 151 | Third Amateur Division - VFV A | País: Belgium
+ID: 152 | Third Amateur Division - VFV B | País: Belgium
+ID: 175 | Third League - Northeast | País: Bulgaria
+ID: 176 | Third League - Northwest | País: Bulgaria
+ID: 177 | Third League - Southeast | País: Bulgaria
+ID: 178 | Third League - Southwest | País: Bulgaria
+ID: 49 | National League - Play-offs | País: England
+ID: 491 | Løgmanssteypid | País: Faroe-Islands
+ID: 530 | Super Cup | País: Georgia
+ID: 345 | Czech Liga | País: Czech-Republic
+ID: 346 | FNL | País: Czech-Republic
+ID: 355 | First League | País: Montenegro
+ID: 356 | Second League | País: Montenegro
+ID: 344 | Primera División | País: Bolivia
+ID: 256 | USL League Two | País: USA
+ID: 373 | 1. SNL | País: Slovenia
+ID: 374 | 2. SNL | País: Slovenia
+ID: 391 | Super League | País: Malawi
+ID: 143 | Copa del Rey | País: Spain
+ID: 405 | National Soccer League | País: Rwanda
+ID: 409 | Premier League | País: Namibia
+ID: 416 | Premier League | País: Belize
+ID: 212 | Cup | País: Croatia
+ID: 384 | State Cup | País: Israel
+ID: 106 | Ekstraklasa | País: Poland
+ID: 172 | First League | País: Bulgaria
+ID: 5 | UEFA Nations League | País: World
+ID: 163 | Liga de Ascenso | País: Costa-Rica
+ID: 111 | FAW Championship | País: Wales
+ID: 265 | Primera División | País: Chile
+ID: 266 | Primera B | País: Chile
+ID: 277 | Super League | País: Kenya
+ID: 318 | 1. Division | País: Cyprus
+ID: 319 | 2. Division | País: Cyprus
+ID: 320 | 3. Division | País: Cyprus
+ID: 201 | Botola 2 | País: Morocco
+ID: 323 | Indian Super League | País: India
+ID: 324 | I-League | País: India
+ID: 107 | I Liga | País: Poland
+ID: 332 | Super Liga | País: Slovakia
+ID: 718 | Piala Indonesia | País: Indonesia
+ID: 808 | CONCACAF Nations League - Qualification | País: World
+ID: 698 | FA Women's Cup | País: England
+ID: 714 | Cup | País: Egypt
+ID: 716 | Senior Shield | País: Hong-Kong
+ID: 768 | Arab Club Champions Cup | País: World
+ID: 769 | Premier League Asia Trophy | País: World
+ID: 770 | Pacific Games | País: World
+ID: 772 | Leagues Cup | País: World
+ID: 773 | Sudamericano U20 | País: World
+ID: 638 | Kvindeliga | País: Denmark
+ID: 642 | Curaçao Sekshon Pagá | País: Curacao
+ID: 655 | Copa Constitució | País: Andorra
+ID: 664 | Superliga | País: Kosovo
+ID: 665 | Cup | País: Kosovo
+ID: 677 | QSL Cup | País: Qatar
+ID: 494 | Super League 2 | País: Greece
+ID: 501 | Copa Paraguay | País: Paraguay
+ID: 502 | Copa Bicentenario | País: Peru
+ID: 503 | Copa Perú | País: Peru
+ID: 509 | 8 Cup | País: South-Africa
+ID: 515 | U21 League 1 | País: Algeria
+ID: 517 | Trofeo de Campeones de la Superliga | País: Argentina
+ID: 518 | Reserve Pro League | País: Belgium
+ID: 523 | NISA | País: USA
+ID: 525 | UEFA Champions League Women | País: World
+ID: 533 | CAF Super Cup | País: World
+ID: 534 | CONCACAF Caribbean Club Shield | País: World
+ID: 546 | FAI President's Cup | País: Ireland
+ID: 482 | Queensland NPL | País: Australia
+ID: 182 | Challenge Cup | País: Scotland
+ID: 237 | Cup | País: Russia
+ID: 97 | Taça da Liga | País: Portugal
+ID: 108 | Cup | País: Poland
+ID: 105 | NM Cupen | País: Norway
+ID: 294 | FA Cup | País: South-Korea
+ID: 325 | Santosh Trophy | País: India
+ID: 347 | Cup | País: Czech-Republic
+ID: 35 | Asian Cup - Qualification | País: World
+ID: 224 | Landesliga - Burgenland | País: Austria
+ID: 225 | Landesliga - Karnten | País: Austria
+ID: 226 | Landesliga - Niederosterreich | País: Austria
+ID: 227 | Landesliga - Oberosterreich | País: Austria
+ID: 228 | Landesliga - Salzburg | País: Austria
+ID: 229 | Landesliga - Steiermark | País: Austria
+ID: 230 | Landesliga - Tirol | País: Austria
+ID: 231 | Landesliga - Vorarlbergliga | País: Austria
+ID: 232 | Landesliga - Wien | País: Austria
+ID: 148 | Second Amateur Division - ACFF | País: Belgium
+ID: 153 | Provincial - Antwerpen | País: Belgium
+ID: 154 | Provincial - Brabant VFV | País: Belgium
+ID: 155 | Provincial - Hainaut | País: Belgium
+ID: 156 | Provincial - Liege | País: Belgium
+ID: 157 | Provincial - Limburg | País: Belgium
+ID: 158 | Provincial - Luxembourg | País: Belgium
+ID: 159 | Provincial - Namur | País: Belgium
+ID: 160 | Provincial - Oost-Vlaanderen | País: Belgium
+ID: 161 | Provincial - West-Vlaanderen | País: Belgium
+ID: 423 | Ligue 1 | País: Burkina-Faso
+ID: 424 | Ligue 1 | País: Congo-DR
+ID: 213 | Third NL - Istok | País: Croatia
+ID: 214 | Third NL - Jug | País: Croatia
+ID: 215 | Third NL - Sjever | País: Croatia
+ID: 216 | Third NL - Sredite | País: Croatia
+ID: 217 | Third NL - Zapad | País: Croatia
+ID: 348 | 3. liga - CFL A | País: Czech-Republic
+ID: 349 | 3. liga - MSFL | País: Czech-Republic
+ID: 350 | 4. liga - Divizie A | País: Czech-Republic
+ID: 351 | 4. liga - Divizie B | País: Czech-Republic
+ID: 352 | 4. liga - Divizie C | País: Czech-Republic
+ID: 353 | 4. liga - Divizie D | País: Czech-Republic
+ID: 354 | 4. liga - Divizie E | País: Czech-Republic
+ID: 50 | National League - North | País: England
+ID: 51 | National League - South | País: England
+ID: 52 | Non League Div One - Isthmian North | País: England
+ID: 53 | Non League Div One - Isthmian South Central | País: England
+ID: 54 | Non League Div One - Northern West | País: England
+ID: 55 | Non League Div One - Northern Midlands | País: England
+ID: 56 | Non League Div One - Southern South | País: England
+ID: 57 | Non League Div One - Isthmian South East | País: England
+ID: 58 | Non League Premier - Isthmian | País: England
+ID: 59 | Non League Premier - Northern | País: England
+ID: 60 | Non League Premier - Southern South | País: England
+ID: 92 | Derde Divisie | País: Netherlands
+ID: 93 | Derde Divisie - Sunday | País: Netherlands
+ID: 109 | II Liga - East | País: Poland
+ID: 341 | Cup | País: Vietnam
+ID: 238 | Youth Championship | País: Russia
+ID: 83 | Regionalliga - Bayern | País: Germany
+ID: 84 | Regionalliga - Nord | País: Germany
+ID: 85 | Regionalliga - Nordost | País: Germany
+ID: 86 | Regionalliga - SudWest | País: Germany
+ID: 87 | Regionalliga - West | País: Germany
+ID: 426 | Serie D - Girone A | País: Italy
+ID: 427 | Serie D - Girone B | País: Italy
+ID: 428 | Serie D - Girone C | País: Italy
+ID: 429 | Serie D - Girone D | País: Italy
+ID: 430 | Serie D - Girone E | País: Italy
+ID: 431 | Serie D - Girone F | País: Italy
+ID: 432 | Serie D - Girone G | País: Italy
+ID: 433 | Serie D - Girone H | País: Italy
+ID: 434 | Serie D - Girone I | País: Italy
+ID: 435 | Primera División RFEF - Group 1 | País: Spain
+ID: 436 | Primera División RFEF - Group 2 | País: Spain
+ID: 437 | Primera División RFEF - Group 3 | País: Spain
+ID: 438 | Primera División RFEF - Group 4 | País: Spain
+ID: 439 | Tercera División RFEF - Group 1 | País: Spain
+ID: 440 | Tercera División RFEF - Group 2 | País: Spain
+ID: 441 | Tercera División RFEF - Group 3 | País: Spain
+ID: 442 | Tercera División RFEF - Group 4 | País: Spain
+ID: 443 | Tercera División RFEF - Group 5 | País: Spain
+ID: 444 | Tercera División RFEF - Group 6 | País: Spain
+ID: 445 | Tercera División RFEF - Group 7 | País: Spain
+ID: 446 | Tercera División RFEF - Group 8 | País: Spain
+ID: 447 | Tercera División RFEF - Group 9 | País: Spain
+ID: 448 | Tercera División RFEF - Group 10 | País: Spain
+ID: 449 | Tercera División RFEF - Group 11 | País: Spain
+ID: 450 | Tercera División RFEF - Group 12 | País: Spain
+ID: 451 | Tercera División RFEF - Group 13 | País: Spain
+ID: 452 | Tercera División RFEF - Group 14 | País: Spain
+ID: 453 | Tercera División RFEF - Group 15 | País: Spain
+ID: 454 | Tercera División RFEF - Group 16 | País: Spain
+ID: 455 | Tercera División RFEF - Group 17 | País: Spain
+ID: 456 | Tercera División RFEF - Group 18 | País: Spain
+ID: 457 | Campeonato de Portugal Prio - Group A | País: Portugal
+ID: 458 | Campeonato de Portugal Prio - Group B | País: Portugal
+ID: 459 | Campeonato de Portugal Prio - Group C | País: Portugal
+ID: 460 | Campeonato de Portugal Prio - Group D | País: Portugal
+ID: 461 | National 3 - Group A | País: France
+ID: 462 | National 3 - Group B | País: France
+ID: 463 | National 3 - Group C | País: France
+ID: 464 | National 3 - Group D | País: France
+ID: 465 | National 3 - Group E | País: France
+ID: 466 | National 3 - Group F | País: France
+ID: 467 | National 3 - Group H | País: France
+ID: 468 | National 3 - Group I | País: France
+ID: 469 | National 3 - Group J | País: France
+ID: 470 | National 3 - Group K | País: France
+ID: 471 | National 3 - Group L | País: France
+ID: 472 | National 3 - Group M | País: France
+ID: 473 | 2. Division - Group 1 | País: Norway
+ID: 474 | 2. Division - Group 2 | País: Norway
+ID: 484 | Frauenliga | País: Austria
+ID: 485 | Federation Cup | País: Bahrain
+ID: 486 | Coppa | País: Belarus
+ID: 487 | First Amateur Division | País: Belgium
+ID: 489 | USL League One | País: USA
+ID: 254 | NWSL Women | País: USA
+ID: 260 | Pacific Coast Soccer League | País: Canada
+ID: 566 | Ligue A | País: Burundi
+ID: 572 | Srpska Liga - Belgrade | País: Serbia
+ID: 573 | Srpska Liga - Vojvodina | País: Serbia
+ID: 574 | Srpska Liga - East | País: Serbia
+ID: 575 | Srpska Liga - West | País: Serbia
+ID: 576 | Gamma Ethniki - Group 1 | País: Greece
+ID: 577 | Gamma Ethniki - Group 2 | País: Greece
+ID: 578 | Gamma Ethniki - Group 3 | País: Greece
+ID: 579 | Gamma Ethniki - Group 4 | País: Greece
+ID: 580 | Gamma Ethniki - Group 5 | País: Greece
+ID: 581 | Gamma Ethniki - Group 6 | País: Greece
+ID: 582 | Gamma Ethniki - Group 7 | País: Greece
+ID: 583 | Gamma Ethniki - Group 8 | País: Greece
+ID: 587 | World Cup - U17 | País: World
+ID: 590 | A Division | País: Nepal
+ID: 599 | 1. Liga Classic - Group 1 | País: Switzerland
+ID: 600 | 1. Liga Classic - Group 2 | País: Switzerland
+ID: 601 | 1. Liga Classic - Group 3 | País: Switzerland
+ID: 613 | Baiano - 2 | País: Brazil
+ID: 620 | Cearense - 2 | País: Brazil
+ID: 625 | Carioca - 2 | País: Brazil
+ID: 633 | NB III - Northeast | País: Hungary
+ID: 634 | NB III - Southwest | País: Hungary
+ID: 635 | NB III - Northwest | País: Hungary
+ID: 192 | New South Wales NPL | País: Australia
+ID: 194 | South Australia NPL | País: Australia
+ID: 195 | Victoria NPL | País: Australia
+ID: 196 | Western Australia NPL | País: Australia
+ID: 357 | Premier Division | País: Ireland
+ID: 358 | First Division | País: Ireland
+ID: 275 | Liga 2 | País: Indonesia
+ID: 395 | Liga 1 | País: Moldova
+ID: 267 | Copa Chile | País: Chile
+ID: 171 | FA Cup | País: China
+ID: 241 | Copa Colombia | País: Colombia
+ID: 147 | Cup | País: Belgium
+ID: 167 | Cup | País: Iceland
+ID: 168 | League Cup | País: Iceland
+ID: 359 | FAI Cup | País: Ireland
+ID: 360 | League Cup | País: Ireland
+ID: 385 | Toto Cup Ligat Al | País: Israel
+ID: 264 | Copa MX | País: Mexico
+ID: 11 | CONMEBOL Sudamericana | País: World
+ID: 12 | CAF Champions League | País: World
+ID: 13 | CONMEBOL Libertadores | País: World
+ID: 209 | Schweizer Cup | País: Switzerland
+ID: 115 | Svenska Cupen | País: Sweden
+ID: 375 | Cup | País: Slovenia
+ID: 181 | FA Cup | País: Scotland
+ID: 809 | Super Cup | País: Andorra
+ID: 810 | Super Copa | País: Argentina
+ID: 811 | Federation Cup | País: Bangladesh
+ID: 813 | Elite Two | País: Cameroon
+ID: 816 | Shield Cup | País: Jordan
+ID: 817 | Super Cup Primavera | País: Italy
+ID: 819 | Super Cup | País: Kosovo
+ID: 820 | Crown Prince Cup | País: Kuwait
+ID: 821 | FA Trophy | País: Malta
+ID: 822 | Cup | País: Morocco
+ID: 828 | Ligue 2 | País: Tunisia
+ID: 829 | Youth League | País: Turkmenistan
+ID: 830 | Super Cup | País: Uzbekistan
+ID: 832 | Coupe de la Ligue | País: Algeria
+ID: 837 | Rock Cup | País: Gibraltar
+ID: 838 | Super Cup | País: Jordan
+ID: 840 | Taça Revelação U23 | País: Portugal
+ID: 841 | QFA Cup | País: Qatar
+ID: 843 | Copa Verde | País: Brazil
+ID: 844 | Ligue 1 | País: Congo
+ID: 845 | GFA League | País: Gambia
+ID: 847 | Premier League | País: Eswatini
+ID: 849 | Baltic Cup | País: World
+ID: 863 | Cup | País: Jordan
+ID: 881 | Olympics Men - Qualification Concacaf | País: World
+ID: 882 | Olympics Women - Qualification Asia | País: World
+ID: 885 | Campeones Cup | País: World
+ID: 475 | Paulista - A1 | País: Brazil
+ID: 476 | Paulista - A2 | País: Brazil
+ID: 477 | Gaúcho - 1 | País: Brazil
+ID: 478 | Gaúcho - 2 | País: Brazil
+ID: 479 | Canadian Premier League | País: Canada
+ID: 483 | Copa de la Superliga | País: Argentina
+ID: 500 | FA Cup | País: Malaysia
+ID: 532 | AFC U23 Asian Cup | País: World
+ID: 536 | CONCACAF Nations League | País: World
+ID: 538 | Africa Cup of Nations U20 | País: World
+ID: 540 | CONMEBOL Libertadores U20 | País: World
+ID: 541 | CONMEBOL Recopa | País: World
+ID: 542 | Iraqi League | País: Iraq
+ID: 548 | Super Cup | País: Japan
+ID: 549 | Damallsvenskan | País: Sweden
+ID: 558 | Supercopa | País: Peru
+ID: 637 | V.League 2 | País: Vietnam
+ID: 639 | Super Cup | País: Iceland
+ID: 640 | Kansallinen Liiga | País: Finland
+ID: 641 | NWSL Women - Challenge Cup | País: USA
+ID: 643 | 3. liga - Bratislava | País: Slovakia
+ID: 644 | 3. liga - West | País: Slovakia
+ID: 645 | 3. liga - East | País: Slovakia
+ID: 646 | 3. liga - Center | País: Slovakia
+ID: 647 | Lao League | País: Laos
+ID: 648 | Tasmania NPL | País: Australia
+ID: 649 | Supreme Division Women | País: Russia
+ID: 650 | Second League - Group 3 | País: Russia
+ID: 651 | Second League - Group 1 | País: Russia
+ID: 652 | Second League - Group 2 | País: Russia
+ID: 653 | Second League - Group 4 | País: Russia
+ID: 654 | Super Cup | País: Armenia
+ID: 656 | Super Cup | País: Bulgaria
+ID: 657 | Cup | País: Estonia
+ID: 658 | Cup | País: Latvia
+ID: 659 | Super Cup | País: Israel
+ID: 660 | WK-League | País: South-Korea
+ID: 661 | Cup | País: Lithuania
+ID: 662 | Copa por México | País: Mexico
+ID: 663 | Super Cup | País: Russia
+ID: 666 | Friendlies Women | País: World
+ID: 667 | Friendlies Clubs | País: World
+ID: 668 | 1. Liga U19 | País: Czech-Republic
+ID: 669 | 1. Liga Women | País: Czech-Republic
+ID: 670 | Community Shield Women | País: England
+ID: 671 | Úrvalsdeild Women | País: Iceland
+ID: 672 | David Kipiani Cup | País: Georgia
+ID: 673 | Liga MX Femenil | País: Mexico
+ID: 674 | Cupa | País: Moldova
+ID: 675 | U21 Divisie 1 | País: Netherlands
+ID: 676 | Central Youth League | País: Poland
+ID: 678 | Super Cup | País: Ukraine
+ID: 679 | U21 League | País: Ukraine
+ID: 680 | Cup | País: Slovakia
+ID: 681 | Campeonato de Portugal Prio - Group E | País: Portugal
+ID: 682 | Campeonato de Portugal Prio - Group F | País: Portugal
+ID: 683 | Campeonato de Portugal Prio - Group G | País: Portugal
+ID: 684 | Campeonato de Portugal Prio - Group H | País: Portugal
+ID: 685 | 3. liga - CFL B | País: Czech-Republic
+ID: 686 | 4. liga - Divizie F | País: Czech-Republic
+ID: 687 | Regionalliga - Tirol | País: Austria
+ID: 688 | Regionalliga - Salzburg | País: Austria
+ID: 689 | Third Amateur Division - ACFF A | País: Belgium
+ID: 690 | Third Amateur Division - ACFF B | País: Belgium
+ID: 691 | Provincial - Brabant ACFF | País: Belgium
+ID: 692 | Primera División RFEF - Group 5 | País: Spain
+ID: 693 | Gamma Ethniki - Group 9 | País: Greece
+ID: 694 | Gamma Ethniki - Group 10 | País: Greece
+ID: 695 | U18 Premier League - North | País: England
+ID: 696 | U18 Premier League - South | País: England
+ID: 697 | WSL Cup | País: England
+ID: 699 | Women's Championship | País: England
+ID: 700 | Kakkosen Cup | País: Finland
+ID: 701 | Liga Revelação U23 | País: Portugal
+ID: 702 | Premier League 2 Division One | País: England
+ID: 703 | Professional Development League | País: England
+ID: 704 | Coppa Italia Primavera | País: Italy
+ID: 705 | Campionato Primavera - 1 | País: Italy
+ID: 706 | Campionato Primavera - 2 | País: Italy
+ID: 707 | Cup | País: Albania
+ID: 708 | Super Cup | País: Albania
+ID: 709 | Cup | País: Armenia
+ID: 710 | Nacional B | País: Bolivia
+ID: 711 | Segunda División | País: Chile
+ID: 712 | Liga Femenina | País: Colombia
+ID: 713 | Superliga | País: Colombia
+ID: 715 | DFB Junioren Pokal | País: Germany
+ID: 717 | I-League - 2nd Division | País: India
+ID: 719 | Super Cup | País: Kuwait
+ID: 720 | Emir Cup | País: Kuwait
+ID: 721 | Cup | País: Luxembourg
+ID: 722 | Liga Premier Serie A | País: Mexico
+ID: 723 | Cup | País: Montenegro
+ID: 724 | U18 Divisie 1 | País: Netherlands
+ID: 726 | Sultan Cup | País: Oman
+ID: 727 | Super Cup | País: Poland
+ID: 728 | Liga 1 Feminin | País: Romania
+ID: 729 | Coppa Titano | País: San-Marino
+ID: 730 | Football League - Highland League | País: Scotland
+ID: 731 | Football League - Lowland League | País: Scotland
+ID: 732 | Cup | País: Serbia
+ID: 733 | I Liga - Women | País: Slovakia
+ID: 734 | Diski Challenge | País: South-Africa
+ID: 735 | Copa Federacion | País: Spain
+ID: 737 | Svenska Cupen - Women | País: Sweden
+ID: 738 | League Cup | País: Wales
+ID: 739 | AXA Women’s Super League | País: Switzerland
+ID: 740 | Brasileiro U20 A | País: Brazil
+ID: 741 | Brasileiro de Aspirantes | País: Brazil
+ID: 742 | Copa Paulista | País: Brazil
+ID: 744 | Oberliga - Schleswig-Holstein | País: Germany
+ID: 745 | Oberliga - Hamburg | País: Germany
+ID: 746 | Oberliga - Mittelrhein | País: Germany
+ID: 747 | Oberliga - Westfalen | País: Germany
+ID: 748 | Oberliga - Niedersachsen | País: Germany
+ID: 749 | Oberliga - Bremen | País: Germany
+ID: 750 | Oberliga - Hessen | País: Germany
+ID: 751 | Oberliga - Niederrhein | País: Germany
+ID: 752 | Oberliga - Rheinland-Pfalz / Saar | País: Germany
+ID: 753 | Oberliga - Baden-Württemberg | País: Germany
+ID: 754 | Oberliga - Nordost-Nord | País: Germany
+ID: 755 | Oberliga - Nordost-Süd | País: Germany
+ID: 756 | Cup | País: Macedonia
+ID: 757 | Irish Cup | País: Northern-Ireland
+ID: 758 | Premier Division | País: Gibraltar
+ID: 759 | Liga Mayor | País: Dominican-Republic
+ID: 760 | LFA First Division | País: Liberia
+ID: 761 | Cup | País: Liechtenstein
+ID: 762 | Premier League | País: Mauritania
+ID: 763 | Mauritian League | País: Mauritius
+ID: 764 | Premier League | País: Mongolia
+ID: 765 | PFL | País: Philippines
+ID: 767 | CONCACAF League | País: World
+ID: 771 | COSAFA U20 Championship | País: World
+ID: 774 | 3. Division - Girone 1 | País: Norway
+ID: 775 | 3. Division - Girone 2 | País: Norway
+ID: 776 | 3. Division - Girone 3 | País: Norway
+ID: 777 | 3. Division - Girone 4 | País: Norway
+ID: 778 | 3. Division - Girone 5 | País: Norway
+ID: 779 | 3. Division - Girone 6 | País: Norway
+ID: 780 | III Liga - Group 1 | País: Poland
+ID: 781 | III Liga - Group 2 | País: Poland
+ID: 782 | III Liga - Group 3 | País: Poland
+ID: 783 | III Liga - Group 4 | País: Poland
+ID: 784 | Liga III - Serie 1 | País: Romania
+ID: 785 | Liga III - Serie 2 | País: Romania
+ID: 786 | Liga III - Serie 3 | País: Romania
+ID: 787 | Liga III - Serie 4 | País: Romania
+ID: 788 | Liga III - Serie 5 | País: Romania
+ID: 789 | Liga III - Serie 6 | País: Romania
+ID: 790 | Liga III - Serie 7 | País: Romania
+ID: 791 | Liga III - Serie 8 | País: Romania
+ID: 792 | Liga III - Serie 9 | País: Romania
+ID: 793 | Liga III - Serie 10 | País: Romania
+ID: 794 | 3. SNL - East | País: Slovenia
+ID: 795 | 3. SNL - West | País: Slovenia
+ID: 796 | 2. Liga Interregional - Group 1 | País: Switzerland
+ID: 797 | 2. Liga Interregional - Group 2 | País: Switzerland
+ID: 798 | 2. Liga Interregional - Group 3 | País: Switzerland
+ID: 799 | 2. Liga Interregional - Group 4 | País: Switzerland
+ID: 800 | 2. Liga Interregional - Group 5 | País: Switzerland
+ID: 801 | 2. Liga Interregional - Group 6 | País: Switzerland
+ID: 802 | Cup | País: Uzbekistan
+ID: 562 | Reserve League | País: Belarus
+ID: 565 | Liga Primera U20 | País: Nicaragua
+ID: 602 | Baiano - 1 | País: Brazil
+ID: 603 | Paraibano | País: Brazil
+ID: 604 | Catarinense - 1 | País: Brazil
+ID: 605 | Paulista - A3 | País: Brazil
+ID: 606 | Paranaense - 1 | País: Brazil
+ID: 607 | Roraimense | País: Brazil
+ID: 608 | Maranhense | País: Brazil
+ID: 609 | Cearense - 1 | País: Brazil
+ID: 610 | Brasiliense | País: Brazil
+ID: 611 | Capixaba | País: Brazil
+ID: 612 | Copa do Nordeste | País: Brazil
+ID: 614 | Paranaense - 2 | País: Brazil
+ID: 615 | Rondoniense | País: Brazil
+ID: 616 | Potiguar | País: Brazil
+ID: 617 | Copa do Brasil U20 | País: Brazil
+ID: 618 | São Paulo Youth Cup | País: Brazil
+ID: 619 | Mineiro - 2 | País: Brazil
+ID: 621 | Piauiense | País: Brazil
+ID: 622 | Pernambucano - 1 | País: Brazil
+ID: 623 | Sul-Matogrossense | País: Brazil
+ID: 624 | Carioca - 1 | País: Brazil
+ID: 626 | Sergipano | País: Brazil
+ID: 627 | Paraense | País: Brazil
+ID: 628 | Goiano - 1 | País: Brazil
+ID: 629 | Mineiro - 1 | País: Brazil
+ID: 630 | Matogrossense | País: Brazil
+ID: 631 | Tocantinense | País: Brazil
+ID: 632 | Supercopa do Brasil | País: Brazil
+ID: 636 | Ýokary Liga | País: Turkmenistan
+ID: 36 | Africa Cup of Nations - Qualification | País: World
+ID: 725 | Toppserien | País: Norway
+ID: 736 | Elitettan | País: Sweden
+ID: 743 | UEFA Championship - Women | País: World
+ID: 865 | Liga 3 | País: Portugal
+ID: 866 | MLS All-Star | País: USA
+ID: 891 | Coppa Italia Serie C | País: Italy
+ID: 868 | Premier League | País: Pakistan
+ID: 869 | CECAFA Club Cup | País: World
+ID: 870 | Premier League | País: Crimea
+ID: 871 | Premier League Cup | País: England
+ID: 872 | Liga Premier Serie B | País: Mexico
+ID: 873 | Thai Champions Cup | País: Thailand
+ID: 874 | Australia Cup | País: Australia
+ID: 875 | Segunda División RFEF - Group 1 | País: Spain
+ID: 876 | Segunda División RFEF - Group 2 | País: Spain
+ID: 877 | Segunda División RFEF - Group 3 | País: Spain
+ID: 878 | Segunda División RFEF - Group 4 | País: Spain
+ID: 879 | Segunda División RFEF - Group 5 | País: Spain
+ID: 883 | Reserve League | País: Netherlands
+ID: 884 | Super Cup | País: San-Marino
+ID: 887 | Second League | País: Egypt
+ID: 888 | Second League - Group B | País: Egypt
+ID: 889 | Second League - Group C | País: Egypt
+ID: 890 | U20 Elite League | País: World
+ID: 892 | Coppa Italia Serie D | País: Italy
+ID: 867 | Copa Paulino Alcantara | País: Philippines
+ID: 895 | League Cup | País: Egypt
+ID: 896 | Super Cup | País: United-Arab-Emirates
+ID: 898 | League Cup | País: Thailand
+ID: 902 | Algarve Cup | País: World
+ID: 903 | The Atlantic Cup | País: World
+ID: 905 | Super Cup | País: Iran
+ID: 812 | Super Cup | País: Belarus
+ID: 814 | Reykjavik Cup | País: Iceland
+ID: 815 | Fotbolti.net Cup A | País: Iceland
+ID: 818 | Super Cup | País: Kazakhstan
+ID: 823 | Nasjonal U19 Champions League | País: Norway
+ID: 824 | Emir Cup | País: Qatar
+ID: 825 | Qatar Cup | País: Qatar
+ID: 826 | Super Cup | País: Saudi-Arabia
+ID: 831 | Super Cup | País: Vietnam
+ID: 833 | Queensland Premier League | País: Australia
+ID: 834 | South Australia State League 1 | País: Australia
+ID: 835 | New South Wales NPL 2 | País: Australia
+ID: 836 | Victoria NPL 2 | País: Australia
+ID: 839 | Super Cup | País: Lithuania
+ID: 842 | Super Copa | País: Uruguay
+ID: 846 | Somali Premier League | País: Somalia
+ID: 848 | UEFA Europa Conference League | País: World
+ID: 851 | Carioca A2 | País: Brazil
+ID: 852 | Super Cup | País: Cyprus
+ID: 853 | Supercopa de Ecuador | País: Ecuador
+ID: 854 | WE League | País: Japan
+ID: 855 | Dhivehi Premier League | País: Maldives
+ID: 856 | CONCACAF Caribbean Club Championship | País: World
+ID: 857 | Campeón de Campeones | País: Mexico
+ID: 858 | CONCACAF Gold Cup - Qualification | País: World
+ID: 859 | COSAFA Cup | País: World
+ID: 860 | Arab Cup | País: World
+ID: 861 | U20 League | País: Mexico
+ID: 862 | 3. Division | País: Denmark
+ID: 864 | Supercopa | País: Costa-Rica
+ID: 910 | Youth Viareggio Cup | País: World
+ID: 909 | MLS Next Pro | País: USA
+ID: 911 | Southeast Asian Games | País: World
+ID: 912 | CONCACAF Women U17 | País: World
+ID: 913 | CONMEBOL - UEFA Finalissima | País: World
+ID: 914 | Tournoi Maurice Revello | País: World
+ID: 915 | 1. Division Women | País: Norway
+ID: 916 | Kirin Cup | País: World
+ID: 917 | Copa Ecuador | País: Ecuador
+ID: 918 | UEFA U19 Championship - Women | País: World
+ID: 919 | Mediterranean Games | País: World
+ID: 920 | World Cup - U20 - Women | País: World
+ID: 921 | UEFA U17 Championship | País: World
+ID: 922 | Africa Cup of Nations - Women | País: World
+ID: 923 | League 1 Ontario | País: Canada
+ID: 924 | Piala Presiden | País: Indonesia
+ID: 926 | Copa America Femenina | País: World
+ID: 927 | World Cup - Women - Qualification Concacaf | País: World
+ID: 928 | ASEAN Championship U19 | País: World
+ID: 929 | League Two | País: China
+ID: 930 | Copa Uruguay | País: Uruguay
+ID: 931 | Non League Premier - Southern Central | País: England
+ID: 932 | Non League Div One - Northern East | País: England
+ID: 933 | Non League Div One - Southern Central | País: England
+ID: 934 | Arab Championship - U20 | País: World
+ID: 935 | Diski Shield | País: South-Africa
+ID: 936 | Catarinense - 2 | País: Brazil
+ID: 937 | Emirates Cup | País: World
+ID: 938 | Oberliga - Bayern Nord | País: Germany
+ID: 939 | Oberliga - Bayern Süd | País: Germany
+ID: 940 | COTIF Tournament | País: World
+ID: 941 | Islamic Solidarity Games | País: World
+ID: 886 | UEFA U17 Championship - Qualification | País: World
+ID: 893 | UEFA U19 Championship - Qualification | País: World
+ID: 894 | Asian Cup Women - Qualification | País: World
+ID: 897 | Asian Cup Women | País: World
+ID: 899 | League Cup | País: Finland
+ID: 900 | Tipsport Malta Cup | País: World
+ID: 901 | Ykköscup | País: Finland
+ID: 904 | SheBelieves Cup | País: World
+ID: 906 | Reserve League | País: Argentina
+ID: 907 | Primera Division | País: Cuba
+ID: 908 | ASEAN Championship U23 | País: World
+ID: 986 | Non League Div One - Play-offs | País: England
+ID: 987 | U18 Premier League - Championship | País: England
+ID: 988 | Oberliga - Promotion Round | País: Germany
+ID: 989 | Oberliga - Relegation Round | País: Germany
+ID: 990 | Gamma Ethniki - Promotion Group | País: Greece
+ID: 991 | Campeonato de Portugal Prio - Promotion Round | País: Portugal
+ID: 992 | Football League - Championship | País: Scotland
+ID: 993 | Non League Premier - Isthmian - Play-offs | País: England
+ID: 994 | Non League Premier - Northern - Play-offs | País: England
+ID: 995 | Non League Premier - Southern South - Play-offs | País: England
+ID: 996 | Non League Premier - Southern Central - Play-offs | País: England
+ID: 997 | Serie D - Promotion - Play-offs | País: Italy
+ID: 998 | Serie D - Relegation - Play-offs | País: Italy
+ID: 999 | Serie D - Championship Round | País: Italy
+ID: 1000 | Segunda División RFEF - Play-offs | País: Spain
+ID: 1002 | Regionalliga - Promotion Play-offs | País: Germany
+ID: 1003 | Regionalliga - Relegation Round | País: Germany
+ID: 1004 | Derde Divisie - Relegation Round | País: Netherlands
+ID: 1005 | 1. Liga Classic - Play-offs | País: Switzerland
+ID: 1006 | Primera División RFEF - Play Offs | País: Spain
+ID: 1007 | 3. Lig - Play-offs | País: Turkey
+ID: 1009 | Liga III - Play-offs | País: Romania
+ID: 1010 | 3. liga - Promotion Play-off | País: Czech-Republic
+ID: 1011 | Second Amateur Division - Play-offs  | País: Belgium
+ID: 1014 | Second League - Play-offs | País: Egypt
+ID: 1016 | CAC Games | País: World
+ID: 944 | Super Cup | País: Oman
+ID: 945 | International Champions Cup - Women | País: World
+ID: 946 | Second NL | País: Croatia
+ID: 947 | DFB Pokal - Women | País: Germany
+ID: 948 | 1a Divisão - Women | País: Portugal
+ID: 949 | CONMEBOL Libertadores Femenina | País: World
+ID: 950 | World Cup - U17 - Women | País: World
+ID: 951 | South American Youth Games | País: World
+ID: 952 | AFC U23 Asian Cup - Qualification | País: World
+ID: 953 | Africa U23 Cup of Nations - Qualification | País: World
+ID: 954 | National League - Central | País: New-Zealand
+ID: 955 | National League - National | País: New-Zealand
+ID: 956 | National League - Northern | País: New-Zealand
+ID: 957 | National League - Southern | País: New-Zealand
+ID: 958 | Copa Costa Rica | País: Costa-Rica
+ID: 959 | Cup | País: Singapore
+ID: 961 | Supercopa | País: Paraguay
+ID: 962 | Premier League | País: Lesotho
+ID: 966 | Cup | País: Ghana
+ID: 967 | Cup | País: Lebanon
+ID: 968 | Championnat D1 | País: Gabon
+ID: 971 | Shield Cup | País: Kenya
+ID: 975 | Serie C - Relegation - Play-offs | País: Italy
+ID: 976 | Serie C - Promotion - Play-offs | País: Italy
+ID: 974 | Serie C - Supercoppa Lega Finals | País: Italy
+ID: 977 | Tercera División RFEF - Promotion - Play-offs | País: Spain
+ID: 978 | 2nd Division - Play-offs | País: Albania
+ID: 979 | Provincial - Play-offs VV | País: Belgium
+ID: 980 | Provincial - Play-offs ACFF | País: Belgium
+ID: 981 | Third Amateur Division - Play-offs | País: Belgium
+ID: 982 | Denmark Series - Promotion Round | País: Denmark
+ID: 983 | Denmark Series - Relegation Round | País: Denmark
+ID: 984 | National League - North - Play-offs | País: England
+ID: 985 | National League - South - Play-offs | País: England
+ID: 1031 | Premier League | País: Bhutan
+ID: 1032 | Copa de la Liga Profesional | País: Argentina
+ID: 1033 | Ekstraliga Women | País: Poland
+ID: 1034 | 2. Frauen Bundesliga | País: Germany
+ID: 1035 | Copa Rio | País: Brazil
+ID: 1036 | Copa Santa Catarina | País: Brazil
+ID: 1037 | Paraibano 2 | País: Brazil
+ID: 1038 | King's Cup | País: World
+ID: 1039 | Premier League International Cup | País: World
+ID: 1040 | UEFA Nations League - Women | País: World
+ID: 1041 | Júniores U19 | País: Portugal
+ID: 1042 | Super Cup | País: Gibraltar
+ID: 1043 | African Football League | País: World
+ID: 1044 | Erste Liga Cup | País: Switzerland
+ID: 1045 | Pan American Games | País: World
+ID: 1048 | Premier Division | País: Antigua-And-Barbuda
+ID: 1049 | King's Cup | País: Bahrain
+ID: 1050 | Super Cup | País: Malta
+ID: 1052 | Kakkonen - Play-offs | País: Finland
+ID: 1053 | Division 2 - Play-offs | País: Sweden
+ID: 1054 | 2. Division - Play-offs | País: Norway
+ID: 1055 | Ettan - Relegation Round | País: Sweden
+ID: 1056 | National League - Championship - Final | País: New-Zealand
+ID: 1058 | Supercopa Femenina | País: Spain
+ID: 1061 | Second League A - Spring Season Gold | País: Russia
+ID: 1064 | Second League A - Spring Season Silver | País: Russia
+ID: 1065 | U19 League | País: Ukraine
+ID: 1068 | FA Youth Cup | País: England
+ID: 1072 | All Africa Games | País: World
+ID: 1074 | SWPL Cup | País: Scotland
+ID: 880 | World Cup - Women - Qualification Europe | País: World
+ID: 1078 | SWF Scottish Cup | País: Scotland
+ID: 1079 | Yemeni League | País: Yemen
+ID: 1080 | Premier Division | País: Grenada
+ID: 1084 | Championnat National | País: Togo
+ID: 1099 | Gamma Ethniki - Relegation Play-offs | País: Greece
+ID: 1109 | Super Cup | País: Bahrain
+ID: 1111 | NB III - Promotion Play-offs | País: Hungary
+ID: 1121 | Second League A - Promotion Play-offs | País: Russia
+ID: 1008 | CAFA Nations Cup | País: World
+ID: 1012 | AFC U17 Asian Cup | País: World
+ID: 1013 | All-Island Cup - Women | País: World
+ID: 1015 | CAF U23 Cup of Nations | País: World
+ID: 1017 | U23 League | País: Mexico
+ID: 1018 | Federation Cup | País: Lebanon
+ID: 1019 | Charity Shield | País: Northern-Ireland
+ID: 1020 | Calcutta Premier Division | País: India
+ID: 1021 | Super Cup | País: Croatia
+ID: 1022 | Premier League - Summer Series | País: England
+ID: 1023 | NB III - Southeast | País: Hungary
+ID: 1024 | UEFA - CONMEBOL - Club Challenge | País: World
+ID: 1025 | Second League A - Division A Gold | País: Russia
+ID: 1026 | Second League A - Division A Silver | País: Russia
+ID: 1027 | 3. Lig - Group 4 | País: Turkey
+ID: 1028 | CONCACAF Central American Cup | País: World
+ID: 1029 | National 3 - Group G | País: France
+ID: 1030 | Goiano - 2 | País: Brazil
+ID: 850 | UEFA U21 Championship - Qualification | País: World
+ID: 960 | Euro Championship - Qualification | País: World
+ID: 963 | CONCACAF U17 | País: World
+ID: 964 | Copa de la División Profesional | País: Bolivia
+ID: 965 | AFC U20 Asian Cup | País: World
+ID: 969 | Primeira Divisão | País: Macao
+ID: 970 | CONMEBOL - U17 | País: World
+ID: 972 | Super Cup | País: China
+ID: 973 | CAF Cup of Nations - U17 | País: World
+ID: 1001 | CONCACAF Women U20 | País: World
+ID: 1046 | CONCACAF Gold Cup - Qualification - Women | País: World
+ID: 1047 | Olympics Women - Qualification CAF | País: World
+ID: 1051 | HKPL Cup | País: Hong-Kong
+ID: 1057 | CONCACAF Gold Cup - Women | País: World
+ID: 1059 | Recopa Catarinense | País: Brazil
+ID: 1060 | CONMEBOL - Pre-Olympic Tournament | País: World
+ID: 1062 | Paulista - A4 | País: Brazil
+ID: 1063 | Copa Alagoas | País: Brazil
+ID: 1066 | CONCACAF U20 - Qualification | País: World
+ID: 1067 | Torneo Promocional Amateur | País: Argentina
+ID: 1069 | Goiano U20 | País: Brazil
+ID: 1070 | AFC U20 Asian Cup - Women | País: World
+ID: 1071 | Paranaense U20 | País: Brazil
+ID: 1073 | Baiano U20 | País: Brazil
+ID: 1075 | Pro League A | País: Uzbekistan
+ID: 1076 | Catarinense U20 | País: Brazil
+ID: 1077 | WAFF Championship U23 | País: World
+ID: 1081 | CONMEBOL - U17 Femenino | País: World
+ID: 1082 | Copa Rio U20 | País: Brazil
+ID: 1085 | CONMEBOL U20 Femenino | País: World
+ID: 1086 | Paulista - U20 | País: Brazil
+ID: 1087 | Ykkösliiga | País: Finland
+ID: 1088 | Pernambucano - U20 | País: Brazil
+ID: 1089 | UAE-Qatar - Super Shield | País: World
+ID: 1090 | NNSW League 1 | País: Australia
+ID: 1091 | Tasmania Northern Championship | País: Australia
+ID: 1092 | Capital Territory NPL 2 | País: Australia
+ID: 1093 | Tasmania Southern Championship | País: Australia
+ID: 1094 | Western Australia State League 1 | País: Australia
+ID: 1095 | USL League One Cup | País: USA
+ID: 1096 | Matogrossense 2 | País: Brazil
+ID: 1097 | Copa Espírito Santo | País: Brazil
+ID: 1098 | Paulista Série B | País: Brazil
+ID: 1100 | Brasiliense U20 | País: Brazil
+ID: 1101 | AFC U17 Asian Cup - Women | País: World
+ID: 1102 | UEFA U17 Championship - Women | País: World
+ID: 1103 | Premiership Women | País: Northern-Ireland
+ID: 1104 | Liga 3 | País: Georgia
+ID: 1105 | Olympics - Intercontinental Play-offs | País: World
+ID: 1106 | Carioca C | País: Brazil
+ID: 1107 | Mineiro U20 | País: Brazil
+ID: 1108 | Sergipano U20 | País: Brazil
+ID: 1110 | Alagoano U20 | País: Brazil
+ID: 1112 | Cearense U20 | País: Brazil
+ID: 1113 | Copa Venezuela | País: Venezuela
+ID: 1114 | Carioca U20 | País: Brazil
+ID: 1115 | Paraense A3 | País: Brazil
+ID: 1116 | WPSL | País: USA
+ID: 1117 | USL W League | País: USA
+ID: 1118 | NPSL | País: USA
+ID: 1119 | NWSL - Liga MXF Summer Cup | País: USA
+ID: 1120 | Paraibano U20 | País: Brazil
+ID: 1122 | OFC U19 Championship | País: World
+ID: 1123 | UAE-Qatar - Super Cup | País: World
+ID: 1124 | Cearense - 3 | País: Brazil
+ID: 1125 | Pernambucano - 2 | País: Brazil
+ID: 1126 | Esiliiga B | País: Estonia
+ID: 1127 | Chatham Cup | País: New-Zealand
+ID: 1128 | Brasileiro U17 | País: Brazil
+ID: 1129 | ASEAN Club Championship | País: World
+ID: 1190 | Super Cup Women | País: Netherlands
+ID: 1130 | USL Super League | País: USA
+ID: 1131 | Super Cup | País: Mongolia
+ID: 1132 | AFC Challenge League | País: World
+ID: 1133 | Goiano - 3 | País: Brazil
+ID: 1134 | Amazonense - 2 | País: Brazil
+ID: 1135 | Sergipano - 2 | País: Brazil
+ID: 1136 | CONCACAF W Champions Cup | País: World
+ID: 1137 | Supercup der Frauen | País: Germany
+ID: 1138 | Paranaense - 3 | País: Brazil
+ID: 1139 | Potiguar - U20 | País: Brazil
+ID: 1140 | AFC Women's Champions League | País: World
+ID: 1141 | Brasiliense B | País: Brazil
+ID: 1142 | Mineiro - 3 | País: Brazil
+ID: 1143 | Estadual Junior U20 | País: Brazil
+ID: 1144 | Super Cup | País: Ghana
+ID: 1168 | FIFA Intercontinental Cup | País: World
+ID: 1145 | Paraense B1 | País: Brazil
+ID: 1146 | Alagoano - 2 | País: Brazil
+ID: 1148 | Maranhense - 2 | País: Brazil
+ID: 1149 | Potiguar - 2 | País: Brazil
+ID: 1150 | Gaúcho - 3 | País: Brazil
+ID: 1151 | Pernambucano - 3 | País: Brazil
+ID: 1152 | U19 Divisie 1 | País: Netherlands
+ID: 1153 | AFC U20 Asian Cup - Qualification | País: World
+ID: 1154 | Catarinense - 3 | País: Brazil
+ID: 1155 | Carioca B2 | País: Brazil
+ID: 1156 | National League Cup | País: England
+ID: 1157 | Paraense U20 | País: Brazil
+ID: 1158 | Copa Gaúcha | País: Brazil
+ID: 1159 | CECAFA U20 Championship | País: World
+ID: 1160 | Sapling Cup | País: Hong-Kong
+ID: 1161 | AFC U17 Asian Cup - Qualification | País: World
+ID: 1162 | AGCFF Gulf Champions League | País: World
+ID: 1163 | African Nations Championship - Qualification | País: World
+ID: 1164 | CAF Women's Champions League | País: World
+ID: 1165 | Copa Fares Lopes | País: Brazil
+ID: 1166 | Super Cup | País: Cameroon
+ID: 1167 | Recopa | País: Costa-Rica
+ID: 1170 | MFL Cup | País: Malaysia
+ID: 1171 | Coppa Italia Women | País: Italy
+ID: 1173 | Challenge Cup | País: Malta
+ID: 1174 | Hun Sen Cup | País: Cambodia
+ID: 1178 | Super Copa International | País: Argentina
+ID: 1172 | Torneo Amistoso de Verano | País: Bolivia
+ID: 1175 | Women's President's Cup | País: Ireland
+ID: 1176 | Super Cup | País: Latvia
+ID: 1177 | Super Cup | País: Faroe-Islands
+ID: 1179 | Copa do Brasil U17 | País: Brazil
+ID: 1181 | Supercopa | País: Venezuela
+ID: 1182 | Northern Super League | País: Canada
+ID: 1183 | Brasileiro U20 B | País: Brazil
+ID: 1184 | Copa Grão Pará | País: Brazil
+ID: 1185 | 3. liga - Play-offs | País: Slovakia
+ID: 1186 | FIFA Club World Cup - Play-In | País: World
+ID: 1187 | Copa Nicaragua | País: Nicaragua
+ID: 1188 | EAFF E-1 Football Championship - Women | País: World
+ID: 1189 | Asean Championship Women | País: World
+ID: 1191 | UEFA Europa Cup - Women | País: World
+ID: 1192 | Super Cup | País: Angola
+ID: 1193 | Super Cup | País: Kenya
+ID: 1194 | Super Cup | País: Tunisia
+ID: 1195 | Liga E Pare | País: Kosovo
+ID: 1196 | Division One League | País: Ghana
+ID: 1197 | FA Cup | País: Oman
+ID: 1198 | Serie A Cup Women | País: Italy
+ID: 1199 | League Cup | País: Hong-Kong
+ID: 1200 | Liga MX U21 | País: Mexico
+ID: 1201 | IFA Shield | País: India
+ID: 1202 | Australian Championship | País: Australia
+ID: 1203 | Piauiense - 2 | País: Brazil
+ID: 1204 | Rondoniense - 2 | País: Brazil
+ID: 1205 | Kings Cup | País: Brazil
+ID: 1206 | CONMEBOL Nations League Women | País: World
+ID: 1218 | Pro League U23 | País: United-Arab-Emirates
+ID: 1221 | Super Cup | País: Bosnia
+ID: 1147 | Capixaba B | País: Brazil
+ID: 1169 | EAFF E-1 Football Championship - Qualification | País: World
+ID: 1180 | Copa LDF | País: Dominican-Republic
+ID: 1083 | UEFA Championship - Women - Qualification | País: World
+ID: 1207 | CONCACAF Series | País: World
+ID: 1208 | Arabian Gulf Cup U23 | País: World
+ID: 1209 | Guangdong - Hong Kong Cup | País: Hong-Kong
+ID: 1210 | Super Cup | País: Greece
+ID: 1211 | Tipsport Liga | País: Czech-Republic
+ID: 1212 | Copa De La Liga Auf | País: Uruguay
+ID: 1213 | Kings World Cup Nations | País: World
+ID: 1214 | OFC Pro League | País: World
+ID: 1215 | Obos Supercup | País: Norway
+ID: 1216 | Serie Rio De La Plata | País: World
+ID: 1217 | FIFA Women Champions Cup | País: World
+ID: 1235 | J2/J3 League | País: Japan
+ID: 1219 | Copa Presidente | País: El-Salvador
+ID: 1220 | Copa De La Liga | País: Chile
+ID: 1222 | FIFA Series | País: World
+ID: 1223 | Copa Norte | País: Brazil
+ID: 1224 | Copa Sul-Sudeste | País: Brazil
+ID: 1225 | Copa Centro-Oeste | País: Brazil
+ID: 1226 | Victoria Premier League 2 | País: Australia
+ID: 1227 | Premier League Women | País: Saudi-Arabia
+ID: 1228 | Ethiopia Cup | País: Ethiopia
+ID: 1229 | Liga Women | País: Peru
+ID: 1230 | Npl Nsw U20 | País: Australia
+ID: 1231 | Federation Cup | País: Nigeria
+ID: 1232 | Copa De La Liga | País: Peru
+ID: 1233 | Super Cup Women | País: Russia
+ID: 1234 | K4 League | País: South-Korea
+ID: 1236 | Como Cup | País: World
+ID: 1237 | Central American and Caribbean Games | País: World
+ID: 1238 | Regionalliga - South | País: Austria
+ID: 1239 | Regionalliga - North | País: Austria
+ID: 1240 | U19 league | País: Turkey
+ID: 1241 | U19 league | País: Serbia
