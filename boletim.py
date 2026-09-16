@@ -23,7 +23,13 @@ def enriquecer_jogos(jogos, incluir_transmissao=True, max_workers=3):
                 dados[idx]["transmissao"] = futuro.result()
             except Exception as erro:
                 print(f"Erro ao enriquecer transmissão: {erro}")
-                dados[idx]["transmissao"] = {"resumo": {"confirmada": False, "texto": "Transmissão não confirmada"}}
+                dados[idx]["transmissao"] = {
+                    "resumo": {
+                        "confirmada": False,
+                        "a_confirmar": False,
+                        "texto": "Consulte a programação oficial",
+                    }
+                }
     return dados
 
 
@@ -35,25 +41,37 @@ def montar_boletim(jogos, incluir_transmissao=True):
     dados = enriquecer_jogos(jogos, incluir_transmissao=incluir_transmissao)
     linhas = ["⚽ JOGOS DE HOJE", f"📅 {hoje}", ""]
     campeonato_anterior = None
+    primeiro_jogo_campeonato = True
 
     for jogo in dados:
-        if jogo["campeonato"] != campeonato_anterior:
+        mudou_campeonato = jogo["campeonato"] != campeonato_anterior
+        if mudou_campeonato:
             if campeonato_anterior is not None:
                 linhas.append("")
             linhas.append(f"🏆 {jogo['campeonato']}")
             campeonato_anterior = jogo["campeonato"]
+            primeiro_jogo_campeonato = True
+        elif not primeiro_jogo_campeonato:
+            # Respiro visual entre partidas da mesma competição.
+            linhas.append("")
 
         linhas.append(f"⚽ {jogo['time_casa']} x {jogo['time_fora']}")
         linhas.append(f"🕐 {jogo['horario']}")
 
         pesquisa = jogo.get("transmissao") or {}
         resumo = pesquisa.get("resumo", {})
+        texto = resumo.get("texto") or "Consulte a programação oficial"
+
         if resumo.get("confirmada"):
-            linhas.append(f"📺 {resumo.get('texto')}")
+            linhas.append(f"📺 {texto}")
             if resumo.get("gratis") is True:
                 linhas.append("🆓 Opção gratuita indicada pela fonte")
+        elif resumo.get("a_confirmar"):
+            linhas.append(f"📺 {texto} (a confirmar)")
         else:
-            linhas.append("📺 Transmissão não confirmada")
+            linhas.append("📺 Consulte a programação oficial")
+
+        primeiro_jogo_campeonato = False
 
     linhas.extend(["", "🤖 Agente Futebol"])
     return "\n".join(linhas)
