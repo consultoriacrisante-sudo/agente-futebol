@@ -47,7 +47,6 @@ def formatar_jogo(jogo):
     estadio = venue.get("name")
     cidade = venue.get("city")
 
-    # Evita aparecer "None" no resultado
     if not estadio:
         estadio = "Não informado"
 
@@ -77,41 +76,22 @@ def formatar_jogo(jogo):
     if not temporada:
         temporada = "Não informado"
 
-    # --------------------------------------------------------
-    # RESULTADO FINAL
-    # --------------------------------------------------------
-
     return {
-
-        # Identificação
         "fixture_id": fixture["id"],
-
-        # Campeonato
+        "league_id": league_id,
         "campeonato": campeonato["nome"],
         "pais": campeonato["pais"],
         "regiao": campeonato["regiao"],
         "tipo": campeonato["tipo"],
-
-        # Times
         "time_casa": time_casa,
         "time_fora": time_fora,
-
-        # Data
         "data": data_jogo.strftime("%d/%m/%Y"),
         "horario": data_jogo.strftime("%H:%M"),
-
-        # Campeonato
         "rodada": rodada,
         "temporada": temporada,
-
-        # Local
         "estadio": estadio,
         "cidade": cidade,
-
-        # Arbitragem
         "arbitro": arbitro,
-
-        # Status
         "status": fixture["status"]["short"],
         "status_detalhado": fixture["status"]["long"]
     }
