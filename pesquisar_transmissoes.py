@@ -24,11 +24,13 @@ FONTES_TRANSMISSAO = [
     ("CNN Brasil", "cnnbrasil.com.br"),
     ("Band", "band.uol.com.br"),
     ("SBT Sports", "sbt.com.br"),
+    ("OneFootball", "onefootball.com.br"),
 ]
 
 CANAIS = [
     ("Premiere", [r"\bpremiere\b"]),
     ("SporTV", [r"\bsportv\b"]),
+    ("ge TV", [r"\bge tv\b", r"\bgetv\b"]),
     ("Globo", [r"\bglobo\b", r"\btv globo\b"]),
     ("ESPN", [r"\bespn\b"]),
     ("Disney+", [r"\bdisney\+", r"\bdisney plus\b"]),
@@ -44,7 +46,36 @@ CANAIS = [
     ("Max", [r"\bhbo max\b", r"\bmax\b"]),
     ("DAZN", [r"\bdazn\b"]),
     ("GOAT", [r"\bcanal goat\b", r"\bgoat\b"]),
+    ("OneFootball", [r"\bonefootball\b"]),
+    ("SportyNet", [r"\bsportynet\b"]),
+    ("XSports", [r"\bxsports\b"]),
+    ("NSports", [r"\bnsports\b"]),
 ]
+
+# Fallback editorial: detentores/plataformas que costumam dividir os direitos no
+# Brasil. Nunca é exibido como transmissão confirmada; serve apenas para orientar
+# o usuário quando a busca do jogo específico ainda não encontrou programação.
+CANAIS_POR_COMPETICAO = {
+    71: ["Premiere", "Globo", "Record"],
+    73: ["Globo", "SporTV", "Prime Video"],
+    39: ["ESPN", "Disney+"],
+    45: ["ESPN", "Disney+"],
+    140: ["CazéTV", "ESPN", "Disney+"],
+    143: ["ESPN", "Disney+"],
+    135: ["ESPN", "Disney+"],
+    137: ["ESPN", "Disney+"],
+    78: ["OneFootball", "CazéTV", "SporTV"],
+    61: ["CazéTV", "XSports"],
+    66: ["CazéTV", "XSports"],
+    94: ["Disney+", "NSports"],
+    96: ["Disney+", "NSports"],
+    88: ["Disney+"],
+    2: ["TNT Sports", "Max", "SBT"],
+    3: ["CazéTV", "Band"],
+    848: ["CazéTV", "Band"],
+    13: ["Globo/ge TV", "ESPN/Disney+", "Paramount+"],
+    11: ["SBT", "ESPN/Disney+", "Paramount+"],
+}
 
 TERMOS_GRATIS = [
     r"\bgr[aá]tis\b", r"\bgratuit[oa]\b", r"\bde gra[cç]a\b",
@@ -79,7 +110,7 @@ def _salvar_cache(cache):
 
 
 def _cache_key(jogo):
-    return f'{jogo.get("fixture_id")}:{jogo.get("data")}'
+    return f'{jogo.get("fixture_id")}:{jogo.get("data")}:v3'
 
 
 def _cache_valido(item):
@@ -96,7 +127,7 @@ def criar_termo_pesquisa(jogo):
     return (
         f'"{jogo["time_casa"]}" "{jogo["time_fora"]}" '
         f'{jogo["campeonato"]} {jogo["data"]} '
-        'onde assistir Brasil transmissão TV streaming'
+        'onde assistir hoje ao vivo Brasil canal transmissão streaming'
     )
 
 
@@ -108,7 +139,7 @@ def pesquisar_web(termo):
         "query": termo,
         "search_depth": "advanced",
         "topic": "general",
-        "max_results": 8,
+        "max_results": 12,
         "include_answer": False,
         "include_domains": [dominio for _, dominio in FONTES_TRANSMISSAO],
     }
@@ -148,10 +179,6 @@ def _resultado_relevante(resultado, jogo):
 
 
 def _trecho_da_partida(resultado, jogo):
-    """Recorta a evidência perto da menção conjunta dos times.
-
-    Isso evita capturar todos os canais de uma agenda/página que fala de vários jogos.
-    """
     texto = re.sub(r"\s+", " ", " ".join([
         resultado.get("title", ""), resultado.get("content", "")
     ])).strip()
@@ -165,14 +192,11 @@ def _trecho_da_partida(resultado, jogo):
 
     inicio_times = min(pos_casa, pos_fora)
     fim_times = max(pos_casa + len(casa), pos_fora + len(fora))
-
-    # Os dois times precisam aparecer relativamente próximos. Se estiverem muito
-    # separados, provavelmente são menções independentes em uma página agregadora.
     if fim_times - inicio_times > 260:
         return ""
 
     inicio = max(0, inicio_times - 180)
-    fim = min(len(texto), fim_times + 320)
+    fim = min(len(texto), fim_times + 380)
     return texto[inicio:fim]
 
 
@@ -185,11 +209,17 @@ def _extrair_canais(texto):
                 canais.append(nome)
     if "Record News" in canais and "Record" in canais:
         canais.remove("Record")
+    # ge TV pertence ao Grupo Globo, mas é uma plataforma distinta; evita duplicar
+    # Globo apenas quando a evidência menciona explicitamente ge TV sem TV Globo.
     return canais
 
 
 def _tem_gratis_explicito(texto):
     return any(re.search(padrao, texto or "", flags=re.IGNORECASE) for padrao in TERMOS_GRATIS)
+
+
+def _canais_provaveis(jogo):
+    return CANAIS_POR_COMPETICAO.get(jogo.get("league_id"), [])[:3]
 
 
 def _consolidar(resultados, jogo):
@@ -207,12 +237,7 @@ def _consolidar(resultados, jogo):
         if not trecho:
             continue
         encontrados = _extrair_canais(trecho)
-        if not encontrados:
-            continue
-
-        # Resultado com uma lista enorme de plataformas é típico de agenda/rodapé
-        # contaminando o snippet; é mais seguro não afirmar transmissão.
-        if len(encontrados) > 4:
+        if not encontrados or len(encontrados) > 4:
             continue
 
         for canal in encontrados:
@@ -226,11 +251,9 @@ def _consolidar(resultados, jogo):
             "score": round(float(resultado.get("score", 0) or 0), 4),
             "canais": encontrados,
         })
-        if len(evidencias) >= 3:
+        if len(evidencias) >= 4:
             break
 
-    # Uma evidência editorial específica já pode confirmar; quando existem várias,
-    # priorizamos canais repetidos e limitamos a saída para evitar listas absurdas.
     canais = []
     if evidencias:
         repetidos = [canal for canal, fontes in votos.items() if len(fontes) >= 2]
@@ -238,13 +261,25 @@ def _consolidar(resultados, jogo):
         canais = candidatos[:3]
 
     confirmada = bool(canais)
-    gratis = bool(confirmada and any(c in gratis_por_canal for c in canais))
+    if confirmada:
+        gratis = any(c in gratis_por_canal for c in canais)
+        return {
+            "confirmada": True,
+            "canais": canais,
+            "gratis": gratis,
+            "fontes": evidencias,
+            "texto": " / ".join(canais),
+            "a_confirmar": False,
+        }
+
+    provaveis = _canais_provaveis(jogo)
     return {
-        "confirmada": confirmada,
-        "canais": canais if confirmada else [],
-        "gratis": gratis,
-        "fontes": evidencias,
-        "texto": " / ".join(canais) if confirmada else "Transmissão não confirmada",
+        "confirmada": False,
+        "canais": provaveis,
+        "gratis": False,
+        "fontes": [],
+        "texto": " / ".join(provaveis) if provaveis else "Consulte a programação oficial",
+        "a_confirmar": bool(provaveis),
     }
 
 
