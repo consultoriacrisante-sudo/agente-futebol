@@ -177,3 +177,13 @@ CAMPEONATOS = {
         "tipo": "continental"
     }
 }
+
+# ============================================================
+# SELECOES
+# ============================================================
+# Jogos de seleções são descobertos dinamicamente a partir dos fixtures do dia.
+# Assim o agente não depende de uma lista fixa de campeonatos internacionais:
+# Copa do Mundo, Eliminatórias, Euro, Copa América, Nations League, amistosos
+# e outras competições de seleções cobertas pela API-Football entram
+# automaticamente quando houver partida no dia.
+INCLUIR_JOGOS_SELECOES = True
