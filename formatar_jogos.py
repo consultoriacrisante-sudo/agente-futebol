@@ -11,7 +11,16 @@ def formatar_jogo(jogo):
 
     league_id = jogo["league"]["id"]
 
-    campeonato = CAMPEONATOS[league_id]
+    # Clubes monitorados usam nossa configuração editorial. Competições de
+    # seleções entram dinamicamente e usam os metadados devolvidos pela API.
+    configurado = CAMPEONATOS.get(league_id)
+    league = jogo.get("league") or {}
+    campeonato = configurado or {
+        "nome": league.get("name") or "Competição internacional",
+        "pais": league.get("country") or "Internacional",
+        "regiao": "Internacional",
+        "tipo": "selecoes",
+    }
 
     # --------------------------------------------------------
     # TIMES
@@ -78,6 +87,7 @@ def formatar_jogo(jogo):
 
     return {
         "fixture_id": fixture["id"],
+        "league_id": league_id,
         "league_id": league_id,
         "campeonato": campeonato["nome"],
         "pais": campeonato["pais"],
